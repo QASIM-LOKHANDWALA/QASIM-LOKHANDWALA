@@ -1,7 +1,7 @@
 - 👋 Hi, I’m QASIM LOKHANDWALA
 - 👀 A student and a tech enthusiast
 - 🌱 I’m currently exploring different domains to find the best one for me
-- 🤝 Join me in this journey and take a deep dive in tech ocean
+- 🤝 Join me in this journey and take a dive in this vast and deep ocean of technology
 - 📫 How to reach me  qasimlokhandwala1@gmail.com
 
 <!---
