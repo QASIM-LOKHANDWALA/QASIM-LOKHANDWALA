@@ -1,7 +1,7 @@
 # Qasim Lokhandwala
 ### Software Developer | Tech Explorer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/qasim-lokhandwala-254a5a2a5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/qasim-lokhandwala-254a5a2a5)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:qasimlokhandwala1@gmail.com)
 
 ## About Me
@@ -37,7 +37,7 @@ Real-time sports analytics and news aggregation platform providing comprehensive
 I'm always interested in collaborating on innovative projects and exploring new opportunities. Whether you want to discuss technology, potential collaborations, or just connect, feel free to reach out:
 
 - 📧 Email: qasimlokhandwala1@gmail.com
-- 💼 LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/qasim-lokhandwala-254a5a2a5)
+- 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/qasim-lokhandwala-254a5a2a5)
 
 ## 📌 Current Focus
 - Learning a range of technologies to expand my knowledge
